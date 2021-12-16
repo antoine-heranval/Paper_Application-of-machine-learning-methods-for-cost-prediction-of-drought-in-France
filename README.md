@@ -1,7 +1,7 @@
-# Paper_Application-of-machine-learning-methods-for-cost-prediction-of-drought-in-France
+# Application of machine learning methods for cost prediction of drought in France
 Pepository containing the code for the paper entitled "Application of machine learning methods for cost prediction of drought in France" 
 
-Antoine HERANVAL· Olivier LOPEZ ·Maud THOMAS2
+Antoine HERANVAL· Olivier LOPEZ ·Maud THOMAS
 
 
 Abstract : 
