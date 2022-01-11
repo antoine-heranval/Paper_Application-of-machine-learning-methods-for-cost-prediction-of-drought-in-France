@@ -1,0 +1,155 @@
+Variable 	Description
+CRIT1	Criterion of the commission
+CRIT2	Criterion of the commission
+CRIT3	Criterion of the commission
+CRIT4	Criterion of the commission
+DUREE1	Duration of the event of drought
+DUREE2	Duration of the event of drought
+DUREE3	Duration of the event of drought
+DUREE4	Duration of the event of drought
+DUREETOT	Total Duration of the events of drought
+DUREETOT_PREC	Total Duration of the past events of drought
+MAGNITUDE1	Magnitude of the event of drought
+MAGNITUDE2	Magnitude of the event of drought
+MAGNITUDE3	Magnitude of the event of drought
+MAGNITUDE4	Magnitude of the event of drought
+MAISON_ARG0_ACTU	Number of houses in area without clay 
+MAISON_ARG1_ACTU	Number of houses with weak propensity of shrinking and swelling of clay
+MAISON_ARG2_ACTU	Number of houses with medium propensity of shrinking and swelling of clay
+MAISON_ARG3_ACTU	Number of houses with high propensity of shrinking and swelling of clay
+maxSSWI1_1	Max value of the SSWI1  for one month
+maxSSWI1_10	Max value of the SSWI1  for one month
+maxSSWI1_11	Max value of the SSWI1  for one month
+maxSSWI1_12	Max value of the SSWI1  for one month
+maxSSWI1_2	Max value of the SSWI1  for one month
+maxSSWI1_3	Max value of the SSWI1  for one month
+maxSSWI1_4	Max value of the SSWI1  for one month
+maxSSWI1_5	Max value of the SSWI1  for one month
+maxSSWI1_6	Max value of the SSWI1  for one month
+maxSSWI1_7	Max value of the SSWI1  for one month
+maxSSWI1_8	Max value of the SSWI1  for one month
+maxSSWI1_9	Max value of the SSWI1  for one month
+maxSSWI12_1	Max value of the SSWI12  for one month
+maxSSWI12_10	Max value of the SSWI12  for one month
+maxSSWI12_11	Max value of the SSWI12  for one month
+maxSSWI12_12	Max value of the SSWI12  for one month
+maxSSWI12_2	Max value of the SSWI12  for one month
+maxSSWI12_3	Max value of the SSWI12  for one month
+maxSSWI12_4	Max value of the SSWI12  for one month
+maxSSWI12_5	Max value of the SSWI12  for one month
+maxSSWI12_6	Max value of the SSWI12  for one month
+maxSSWI12_7	Max value of the SSWI12  for one month
+maxSSWI12_8	Max value of the SSWI12  for one month
+maxSSWI12_9	Max value of the SSWI12  for one month
+maxSSWI3_1	Max value of the SSWI3  for one month
+maxSSWI3_10	Max value of the SSWI3  for one month
+maxSSWI3_11	Max value of the SSWI3  for one month
+maxSSWI3_12	Max value of the SSWI3  for one month
+maxSSWI3_2	Max value of the SSWI3  for one month
+maxSSWI3_3	Max value of the SSWI3  for one month
+maxSSWI3_4	Max value of the SSWI3  for one month
+maxSSWI3_5	Max value of the SSWI3  for one month
+maxSSWI3_6	Max value of the SSWI3  for one month
+maxSSWI3_7	Max value of the SSWI3  for one month
+maxSSWI3_8	Max value of the SSWI3  for one month
+maxSSWI3_9	Max value of the SSWI3  for one month
+maxSSWI6_1	Max value of the SSWI6  for one month
+maxSSWI6_10	Max value of the SSWI6  for one month
+maxSSWI6_11	Max value of the SSWI6  for one month
+maxSSWI6_12	Max value of the SSWI6  for one month
+maxSSWI6_2	Max value of the SSWI6  for one month
+maxSSWI6_3	Max value of the SSWI6  for one month
+maxSSWI6_4	Max value of the SSWI6  for one month
+maxSSWI6_5	Max value of the SSWI6  for one month
+maxSSWI6_6	Max value of the SSWI6  for one month
+maxSSWI6_7	Max value of the SSWI6  for one month
+maxSSWI6_8	Max value of the SSWI6  for one month
+maxSSWI6_9	Max value of the SSWI6  for one month
+mean_rang	Ranking of the severity of the event
+minSSWI1_1	Min value of the SSWI 
+minSSWI1_10	Min value of the SSWI1  for one month
+minSSWI1_11	Min value of the SSWI1  for one month
+minSSWI1_12	Min value of the SSWI1  for one month
+minSSWI1_2	Min value of the SSWI1  for one month
+minSSWI1_3	Min value of the SSWI1  for one month
+minSSWI1_4	Min value of the SSWI1  for one month
+minSSWI1_5	Min value of the SSWI1  for one month
+minSSWI1_6	Min value of the SSWI1  for one month
+minSSWI1_7	Min value of the SSWI1  for one month
+minSSWI1_8	Min value of the SSWI1  for one month
+minSSWI1_9	Min value of the SSWI1  for one month
+minSSWI12_1	Min value of the SSWI12  for one month
+minSSWI12_10	Min value of the SSWI12  for one month
+minSSWI12_11	Min value of the SSWI12  for one month
+minSSWI12_12	Min value of the SSWI12  for one month
+minSSWI12_2	Min value of the SSWI12  for one month
+minSSWI12_3	Min value of the SSWI12  for one month
+minSSWI12_4	Min value of the SSWI12  for one month
+minSSWI12_5	Min value of the SSWI12  for one month
+minSSWI12_6	Min value of the SSWI12  for one month
+minSSWI12_7	Min value of the SSWI12  for one month
+minSSWI12_8	Min value of the SSWI12  for one month
+minSSWI12_9	Min value of the SSWI12  for one month
+minSSWI3_1	Min value of the SSWI3  for one month
+minSSWI3_10	Min value of the SSWI3  for one month
+minSSWI3_11	Min value of the SSWI3  for one month
+minSSWI3_12	Min value of the SSWI3  for one month
+minSSWI3_2	Min value of the SSWI3  for one month
+minSSWI3_3	Min value of the SSWI3  for one month
+minSSWI3_4	Min value of the SSWI3  for one month
+minSSWI3_5	Min value of the SSWI3  for one month
+minSSWI3_6	Min value of the SSWI3  for one month
+minSSWI3_7	Min value of the SSWI3  for one month
+minSSWI3_8	Min value of the SSWI3  for one month
+minSSWI3_9	Min value of the SSWI3  for one month
+minSSWI6_1	Min value of the SSWI6  for one month
+minSSWI6_10	Min value of the SSWI6  for one month
+minSSWI6_11	Min value of the SSWI6  for one month
+minSSWI6_12	Min value of the SSWI6  for one month
+minSSWI6_2	Min value of the SSWI6  for one month
+minSSWI6_3	Min value of the SSWI6  for one month
+minSSWI6_4	Min value of the SSWI6  for one month
+minSSWI6_5	Min value of the SSWI6  for one month
+minSSWI6_6	Min value of the SSWI6  for one month
+minSSWI6_7	Min value of the SSWI6  for one month
+minSSWI6_8	Min value of the SSWI6  for one month
+minSSWI6_9	Min value of the SSWI6  for one month
+NB_EVT_ANNEE_ENCOURS	Number of events 
+NB_EVT_ANNEE_PREC	Number of events for the previous year
+NB_MAISON_ACTU	Number of houses
+nb_rang	Number of first and second place in the ranking
+PART_ARG0	Proportion of the surface with no propensity of shrinking and swelling of clay
+PART_ARG1	Proportion of the surface with weak propensity of shrinking and swelling of clay
+PART_ARG2	Proportion of the surface with medium propensity of shrinking and swelling of clay
+PART_ARG3	Proportion of the surface with high propensity of shrinking and swelling of clay
+RARETE1.0	Rarity of the event
+RARETE1.1	Rarity of the event
+RARETE1.2	Rarity of the event
+RARETE1.3	Rarity of the event
+RARETE1.4	Rarity of the event
+RARETE2.0	Rarity of the event
+RARETE2.1	Rarity of the event
+RARETE2.2	Rarity of the event
+RARETE2.3	Rarity of the event
+RARETE2.4	Rarity of the event
+RARETE3.0	Rarity of the event
+RARETE3.1	Rarity of the event
+RARETE3.2	Rarity of the event
+RARETE3.3	Rarity of the event
+RARETE3.4	Rarity of the event
+RARETE4.0	Rarity of the event
+RARETE4.1	Rarity of the event
+RARETE4.2	Rarity of the event
+RARETE4.3	Rarity of the event
+RARETE4.4	Rarity of the event
+SEVERITE1	Severity of the event
+SEVERITE2	Severity of the event
+SEVERITE3	Severity of the event
+SEVERITE4	Severity of the event
+sum	Number of past declaration
+sum_dec_1	Number of past declaration with the calculation done with our SSWI
+sum_dec_2	Number of past refusal with the calculation done with our SSWI
+SURF_ARG1	Surface with no propensity of shrinking and swelling of clay
+SURF_ARG2	Surface with weak propensity of shrinking and swelling of clay
+SURF_ARG3	Surface with medium propensity of shrinking and swelling of clay
+SURF_URB	Surface with high propensity of shrinking and swelling of clay
